@@ -1,0 +1,16 @@
+CONTADOR  // Es un proceso que va a hacer un conteo//
+
+FOR //para//
+WHILE //mientras//
+REPEAT //repetir//
+
+main()
+{
+    i = 1; //Inicializando una variable con un valor//
+    for(x=i; x<=100; x++)
+    {
+        printf (x);
+    }
+    printf ("Adios")
+}
+    
